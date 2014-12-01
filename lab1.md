@@ -1,6 +1,8 @@
-#### MODIFY PDF TO EXECUTE EXE IN WINDOWS
+#### NAVIGATING TO THE THA LAB INSTRUCTIONS FOLDER
 
-1. Download the template [PDF file](https://github.com/madsec/tha-lab_introduction-to-the-pdf-launch-action/raw/master/launch.pdf) titled: “launch.pdf”.
+Begin at a new terminal window. 
+
+1. All THA labs contain a local copy of the lab instructions. These instructions are downloaded when you run the git clone command during the lab setup.
 
 2. Open the PDF file “launch.pdf” in Adobe Reader version 9.3.0 to verify that it launches the built in Windows calculator “calc.exe”. Note: Newer versions of Adobe Reader have implemented safe guards against launching arbitrary content, so you will need to install version 9.3.0 per the instructions in the Lab Setup section of this learning module.
 
