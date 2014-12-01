@@ -13,7 +13,7 @@ Begin at a new terminal window.
 ##### SOLUTIONS
 
 Step 3:
-'''bash
+''' bash
 cd THA
 cd setup
 cd assets
