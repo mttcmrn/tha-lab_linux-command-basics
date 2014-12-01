@@ -9,5 +9,9 @@ cd assets
 
 ##### LAB EXERICISE 2 SOLUTION
 
+Step 2:
+```bash
+mkdir DEMO
+```
 
 ##### LAB EXERICISE 3 SOLUTION
