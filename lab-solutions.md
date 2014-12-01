@@ -1,4 +1,4 @@
-##### LAB EXERICISE 1 SOLUTIONS
+##### LAB EXERICISE 1 SOLUTION
 
 Step 3:
 ```bash
@@ -6,3 +6,8 @@ cd THA
 cd setup
 cd assets
 ```
+
+##### LAB EXERICISE 2 SOLUTION
+
+
+##### LAB EXERICISE 3 SOLUTION
