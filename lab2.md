@@ -7,5 +7,5 @@ Continue from exercise 1.
 3. Navigate inside of the new DEMO directory. 
 4. Using the commands demonstarted in the module video, return to the previous directory and delete the DEMO directory. The correct commands are shown following the lab exercises and in lab-solutions.md
 5. Using the commands demonstarted in the module video, clear the terminal window as well as the command history. The correct commands are shown following the lab exercises and in lab-solutions.md
-6. 
+
 This concludes the lab exercise, continue to exercise 2
