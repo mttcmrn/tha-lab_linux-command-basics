@@ -1,10 +1,11 @@
-#### NAVIGATING TO THE THA LAB INSTRUCTIONS FOLDER
+#### WORKING WITH DIRECTORIES
 
-All THA labs contain a local copy of the lab instructions. These instructions are downloaded when you run the git clone command during the lab setup. 
+Continue from exercise 1.
 
-Begin at a new terminal window.
-
-1. Use the LS command to list the subfolders at your current location.
-2. Using the commands shown in the module video, naviagte to the assets folder at /THA/linux-command-basics/assets. The correct commands are shown following the lab exercises and in lab-solutions.md
-
+1. Use the PWD command to conform your location is currectly /THA/linux-command-basics/assets. If this is not your current location use the CD command to navigate to it. 
+2. Using the command demonstrated in the module video, create a directory called DEMO (all caps). The correct commands are shown following the lab exercises and in lab-solutions.md
+3. Navigate inside of the new DEMO directory. 
+4. Using the commands demonstarted in the module video, return to the previous directory and delete the DEMO directory. The correct commands are shown following the lab exercises and in lab-solutions.md
+5. Using the commands demonstarted in the module video, clear the terminal window as well as the command history. The correct commands are shown following the lab exercises and in lab-solutions.md
+6. 
 This concludes the lab exercise, continue to exercise 2
