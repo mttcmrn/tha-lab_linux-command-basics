@@ -18,4 +18,9 @@ Step 4:
 cd ..
 rmdir DEMO
 ```
+Step 5:
+```bash
+clear
+history -c
+```
 ##### LAB EXERICISE 3 SOLUTION
