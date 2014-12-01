@@ -13,5 +13,9 @@ Step 2:
 ```bash
 mkdir DEMO
 ```
-
+Step 4:
+```bash
+cd ..
+rmdir DEMO
+```
 ##### LAB EXERICISE 3 SOLUTION
