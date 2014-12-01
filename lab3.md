@@ -2,8 +2,6 @@
 
 Continue from exercise 2.
 
-The correct commands are shown following the lab exercises and in lab-solutions.md
-
-1. Use
+1. Using the command demonstrated in the module video, lookup the manual page for the ifconfig command. What optional parameter would cause ifconfig to return a short list of interfaces? The solutions follow the lab exercises and are in lab-solutions.md
 
 This concludes the lab exercise.
