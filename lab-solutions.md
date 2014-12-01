@@ -24,3 +24,11 @@ clear
 history -c
 ```
 ##### LAB EXERICISE 3 SOLUTION
+Step 5:
+```bash
+man ifconfig
+```
+What optional parameter would cause ifconfig to return a short list of interfaces?
+```bash
+ifconfig -s
+```
