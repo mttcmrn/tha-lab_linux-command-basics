@@ -3,7 +3,7 @@
 Step 3:
 ```bash
 cd THA
-cd setup
+cd linux-command-basics
 cd assets
 ```
 
